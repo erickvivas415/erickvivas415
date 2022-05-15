@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @erickvivas415
-- 👀 I’m interested in coding
-- 🌱 I program html, ccs, javascript and python
 - 💞️ I’m looking to collaborate on any fun project
 <!-- - 📫 How to reach me ... -->
 
