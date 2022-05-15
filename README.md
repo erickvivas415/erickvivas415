@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I program html, ccs, javascript and python
 - 💞️ I’m looking to collaborate on any fun project
-- 📫 How to reach me ...
+<!-- - 📫 How to reach me ... -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickvivas415)](https://github.com/anuraghazra/github-readme-stats)
 
