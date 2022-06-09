@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @erickvivas415
 - 💞️ I’m looking to collaborate in any fun project
+- Love to learn :) 
+
+
+
 <!-- - 📫 How to reach me ... -->
 
 [![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickvivas415)](https://github.com/erickvivas415/github-readme-stats)
