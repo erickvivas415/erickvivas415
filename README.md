@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @erickvivas415
-- 💞️ I’m looking to collaborate in any fun project
 - Love to learn :) 
 
 
