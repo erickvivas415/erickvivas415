@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @erickvivas415
-- Love to learn :) 
+ ##### Hi, I’m @erickvivas415
+    ## Love to learn and grow
 
 
 ![San Francisco](https://images.unsplash.com/photo-1521464302861-ce943915d1c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80)
